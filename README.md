@@ -1,6 +1,4 @@
 # CM40
 
-v16
-
-UE 5.5.4
-
+こっちに移動したので削除予定
+https://github.com/tukanpo/CM41
